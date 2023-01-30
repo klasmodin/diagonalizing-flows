@@ -16,13 +16,13 @@ Below you see the animations of the three flows studies, represented as incompre
 
 ## Toda flow (TODA)
 
-https://user-images.githubusercontent.com/2172666/213688544-d7e0b413-cde8-40b5-b7ba-6c9688c71e8f.mp4
+https://user-images.githubusercontent.com/2172666/215596567-089c3370-462c-4461-b321-e168830cc04a.mp4
 
 ## Incompressible porous medium (IPM)
 
-https://user-images.githubusercontent.com/2172666/213688740-4e2502db-1c1b-4d0a-9cfb-73bfe20c7f04.mp4
+https://user-images.githubusercontent.com/2172666/215596641-e889aea2-e396-4a6e-ade5-eb31f356ebc5.mp4
 
 ## Diagonalizing incompressible flow (DIAG)
 
-https://user-images.githubusercontent.com/2172666/213688881-63be6bf5-de86-4682-801a-0ef7c53fe8c9.mp4
+https://user-images.githubusercontent.com/2172666/215596703-41077c1a-b1af-4d95-b321-a9e5e7fdc24f.mp4
 
